@@ -1,0 +1,23 @@
+{
+    "pcaps": [
+        "google.com", 
+        "youtube.com", 
+        "facebook.com", 
+        "baidu.com", 
+        "wikipedia.org", 
+        "yahoo.com", 
+        "qq.com", 
+        "taobao.com", 
+        "tmall.com", 
+        "twitter.com", 
+        "amazon.com", 
+        "sohu.com", 
+        "google.co.in", 
+        "instagram.com", 
+        "sina.com.cn", 
+        "reddit.com", 
+        "live.com", 
+        "weibo.com", 
+        "jd.com"
+    ]
+}
